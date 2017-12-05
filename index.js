@@ -3,7 +3,7 @@
 
 const through = require('through2');
 const gutil = require('gulp-util');
-const theo = require('theo');
+const theo = require('theo-zone');
 
 module.exports = Object.assign(
   {},
